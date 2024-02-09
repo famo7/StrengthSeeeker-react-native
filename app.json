@@ -5,11 +5,23 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffffff",
+      "plugins": [
+        [
+          "expo-font",
+          {
+            "fonts": [
+              "./assets/fonts/Lato-Regular.ttf",
+              "./assets/fonts/Lato-Bold.ttf",
+              "./assets/fonts/Lato-Light.ttf"
+            ]
+          }
+        ]
+      ]
     },
     "assetBundlePatterns": [
       "**/*"

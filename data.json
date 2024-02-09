@@ -1,0 +1,61 @@
+{
+    "routines": [
+        {
+            "active": true,
+            "name": "Cut",
+            "workouts": [
+                {
+                    "name": "Upper",
+                    "start_time": "2024-01-24T15:14:48.868Z",
+                    "end_time": "2024-01-24T15:14:48.868Z",
+                    "exercises": [
+                        {
+                            "name": "bench press",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 90,
+                                    "id": "65b127fd5e97f8e12dddc067"
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 100,
+                                    "id": "65b127fd5e97f8e12dddc066"
+                                }
+                            ],
+                            "id": "65b1291e7c74aaee45bdeb66"
+                        }
+                    ],
+                    "id": "65b12968bac166f6c4cef11f"
+                }
+            ],
+            "id": "65b129ecd4108145f3ba751c"
+        },
+        {
+            "active": false,
+            "name": "Bulk",
+            "workouts": [
+                {
+                    "name": "Lower",
+                    "start_time": "2024-01-24T15:19:07.183Z",
+                    "end_time": "2024-01-24T15:19:07.183Z",
+                    "exercises": [
+                        {
+                            "name": "squat",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 80,
+                                    "id": "65b127fd5e97f8e12dddc068"
+                                }
+                            ],
+                            "id": "65b12a31c017cf581d1f344c"
+                        }
+                    ],
+                    "id": "65b12a6bb9935668ee158f7a"
+                }
+            ],
+            "id": "65b12a8dc49db1831bd61e22"
+        }
+    ]
+}
